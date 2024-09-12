@@ -37,14 +37,15 @@ yarn install
 
 ### 3. Configure Environment Variables:
 
-Copy `.env-example` and edit file name to `.env` in the root directory with the following content (modify values as per your setup):
+Copy `.env.example` and edit file name to `.env` in the root directory with the following content (modify values as per your setup):
 
 ```
-DATABASE_HOST=localhost
-DATABASE_PORT=5432
-DATABASE_USERNAME=your_username
-DATABASE_PASSWORD=your_password
-DATABASE_NAME=your_database
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=
+DB_PASSWORD=
+DB_NAME=seryu-cargo
+
 ```
 
 ---
