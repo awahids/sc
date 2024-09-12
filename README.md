@@ -24,8 +24,8 @@ First, ensure that you have the following installed on your machine:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://your-repository-url.git
-cd your-repository
+git clone https://github.com/awahids/sc.git
+cd sc
 ```
 
 ### 2. Install dependencies:
